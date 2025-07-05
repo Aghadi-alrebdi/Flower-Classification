@@ -99,15 +99,13 @@ Below is a screenshot of the testing flower and the accuracy of the model  :
 ![Flower picture](Test-flower.jpg)
 
 
+
+
 ![Accuracy picture](Accuracy.png)
 
 
 ---
 
-## Google Collab link
-
-To see the code click here:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aghadi-alrebdi/Flower-Classification/blob/main/Flower_Classification.ipynb)
 
 
 
