@@ -96,10 +96,10 @@ print("Confidence Score:", confidence_score)
 ## Project Screenshot  
 Below is a screenshot of the testing flower and the accuracy of the model  :
 
-![Flower picture](Test-flower.png)
+![Flower picture](Test-flower.jpg)
 
 
-![Accuracy picture](Test-flower.png)
+![Accuracy picture](Accuracy.png)
 
 
 ---
@@ -107,6 +107,7 @@ Below is a screenshot of the testing flower and the accuracy of the model  :
 ## Google Collab link
 
 To see the code click here:
-[View Notebook on GitHub](https://github.com/Aghadi-alrebdi/Flower-Classification/blob/main/Flower_Classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aghadi-alrebdi/Flower-Classification/blob/main/Flower_Classification.ipynb)
+
 
 
