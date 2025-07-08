@@ -35,14 +35,6 @@ A total of **30 images** (10 per class) were uploaded into the Teachable Machine
 
 ---
 
-## Created By  
-- **Student Name**: Aghadi Saleh Al-rebdi  
-- **University**: Qassim University  
-- **Department**: Computer Science  
-- **Year**: 2025  
-
----
-
 ## Flower classification Code 
 
 ```python
@@ -106,6 +98,9 @@ Below is a screenshot of the testing flower and the accuracy of the model  :
 
 ---
 
-
+## Created By  
+- **Name**: Aghadi Saleh Al-rebdi   
+- **Department**: Computer Science  
+- **Year**: 2025  
 
 
